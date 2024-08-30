@@ -9,18 +9,19 @@ demonstrate the system's effectiveness in various transaction environments, show
 its potential to enhance transaction security and integrity.
 
 **Project Overview:**
-Our dashboard is designed to:
+
+**Our dashboard is designed to:**
 • Ingest transaction data in real-time from various sources.
 • Analyze transactions using advanced machine learning models for anomaly detection.
 • Provide real-time alerts for suspicious activities.
 • Visualize transaction data and anomalies for easy interpretation.
+
 **Key Features:**
-• Transaction Data Simulation: The dashboard generates realistic transaction data to simulate realworld scenarios.
-• Anomaly Detection: A pre-trained machine learning model is employed to identify deviations from 
-normal transaction patterns.
+• Transaction Data Simulation: The dashboard generates realistic transaction data to simulate real world scenarios.
+• Anomaly Detection: A pre-trained machine learning model is employed to identify deviations from normal transaction patterns.
 • Real-Time Alerts: Users are notified immediately when suspicious transactions are detected.
-• Interactive Dashboard: The dashboard provides a user-friendly interface for visualizing 
-transaction summaries, anomalies, and processed results.
+• Interactive Dashboard: The dashboard provides a user-friendly interface for visualizing transaction summaries, anomalies, and processed results.
+
 **Technical Implementation:**
 • Programming Languages: Python
 • Libraries: Streamlit, Pandas, Matplotlib, Google GenerativeAI
