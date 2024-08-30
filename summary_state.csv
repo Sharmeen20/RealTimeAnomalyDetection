@@ -1,0 +1,9 @@
+Metric,Count
+Total Transactions,153
+Total Anomalies,52
+Bank Transactions,70
+E-commerce Transactions,63
+Payment Gateway Transactions,20
+Bank Anomalies,29
+E-commerce Anomalies,17
+Payment Gateway Anomalies,6

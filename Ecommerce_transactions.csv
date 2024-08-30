@@ -1,0 +1,4 @@
+transaction_id,user_id,amount,timestamp,type,is_anomaly
+1130,829,291.9,1724937482.852736,ecommerce,1
+6178,377,666.46,1724937490.411664,ecommerce,0
+4908,266,653.49,1724937495.9805112,ecommerce,0
