@@ -3,7 +3,7 @@ import requests
 import google.generativeai as genai
 
 
-GOOGLE_API_KEY="AIzaSyBFmrbl7suBQNN7RekAEsWBkXIlizAS7f0"
+GOOGLE_API_KEY="Put_Your_Gemini_API"
 
 def analyze_transaction(transaction):
     genai.configure(api_key=GOOGLE_API_KEY)
