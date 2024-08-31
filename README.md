@@ -27,3 +27,11 @@ its potential to enhance transaction security and integrity.
 • Libraries: Streamlit, Pandas, Matplotlib, Google GenerativeAI
 • Machine Learning: Pre-trained anomaly detection models
 • Data Storage: In-memory data structures
+
+# Run the below commands
+-Check python version: 
+python --version
+-Install all the dependencies:
+pip install -r requirements.txt
+-Run streamlit app:
+python -m streamlit run streamlit_app.py
